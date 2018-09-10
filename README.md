@@ -6,7 +6,9 @@ Bloomington, IN
 # Description 
 The workshop includes discussions, lectures, and hands-on tutorials to cover topics important to getting started constructing and analyzing transcriptomes—without the use of a genome. Material will cover both the availability and use of high performance computing (HPC) resources, alongside the task of assembling a new transcriptome, in order to provide a more comprehensive preparation for this and future bioinformatic tasks.
 
-Transcriptome assembly will consist of using four separate assemblers (Trinity, SOAP de novo, Velvet Oases, and TransABySS), with multiple kmers, to be combined and curated with Evigenes. This combined assembly with multiple parameters is considered much more robust than simply using one assembler, and the NCGAS pipeline streamlines the process and allows for customization if desired. This workshop we have also included transcriptome annotation of the assembled transcripts using Trinotate, which uses mutiple well referenced annotation tools- BLAST, HMMER, PFAM, RNAMMER, etc and combines all these outputs to one table. 
+Transcriptome assembly will consist of using four separate assemblers (Trinity, SOAP de novo, Velvet Oases, and TransABySS), with multiple kmers, to be combined and curated with Evigenes. This combined assembly with multiple parameters is considered much more robust than simply using one assembler, and the NCGAS pipeline streamlines the process and allows for customization if desired. 
+
+Updates from last workshop- This workshop we have also included transcriptome annotation of the assembled transcripts using Trinotate, which uses mutiple well referenced annotation tools- BLAST, HMMER, PFAM, RNAMMER, etc and combines all these outputs to one table. 
 
 While material will make heavy use of XSEDE and IU machines, the material is transferable to any cluster.
 
