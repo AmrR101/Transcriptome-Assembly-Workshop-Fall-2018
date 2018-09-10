@@ -12,8 +12,6 @@ Updates from last workshop- This workshop we have also included transcriptome an
 
 While material will make heavy use of XSEDE and IU machines, the material is transferable to any cluster.
 
-More information here: https://itnews.iu.edu/articles/2018/s4es-de-novo-assembly-of-transcriptomes-using-hpc-resources-workshop.php
-
 # Schedule 
 
 |**Day 1**			 |**Activity**							                                |**Lead**|
