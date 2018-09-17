@@ -31,6 +31,7 @@ While material will make heavy use of XSEDE and IU machines, the material is tra
 |               |                                                           |      |
 |9:00am		      |Using Galaxy							                                  |Carrie|
 |10:00 am		    |BREAK	                  			                            |      |
+|10:15 am       |Using Galaxy (contd)                                       |Carrie|
 |11:15 am		    |Hands on Pipeline Use                                      |Sheri/All|
 |12:30 pm		    |Lunch                                                      |      |
 |1:30 pm		    |Hands on Pipeline Use Cont’d				                        |Sheri/All|
