@@ -45,13 +45,17 @@ While material will make heavy use of XSEDE and IU machines, the material is tra
 
 Scripts used in this workshop - Project_Workshop.tar.gz (under releases)
 \
+\
 Slides and Presentations - In progress
 \
+\
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
+\
 \
 HPC keywords - https://docs.google.com/document/d/1ZC1SCgoTFaYrU5begM7DJSiJD9lL2avkcznYLMzuT5Q/edit?usp=sharing
 \
 The google doc link is editable, feel free to add in words and definitions during the workshop. At the end of the workshop I will move this document here as a pdf. 
+\
 \
 Scripts in general (SLURM/PBS scripts)- In progress
 
