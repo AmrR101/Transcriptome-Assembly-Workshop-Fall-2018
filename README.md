@@ -55,11 +55,10 @@ NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 HPC keywords - https://docs.google.com/document/d/1ZC1SCgoTFaYrU5begM7DJSiJD9lL2avkcznYLMzuT5Q/edit?usp=sharing
 \
 The google doc link is editable, feel free to add in words and definitions during the workshop. At the end of the workshop I will move this document here as a pdf. 
-\
 
 # Contact
 
 Email us at help@ncgas.org 
 \
-Website ncgas.org 
+Website https://ncgas.org/
 
