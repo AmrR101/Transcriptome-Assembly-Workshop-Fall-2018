@@ -10,7 +10,7 @@ Transcriptome assembly will consist of using four separate assemblers (Trinity, 
 
 Updates from last workshop- This workshop we have also included transcriptome annotation of the assembled transcripts using Trinotate, which uses mutiple well referenced annotation tools- BLAST, HMMER, PFAM, RNAMMER, etc and combines all these outputs to one table. 
 
-While material will make heavy use of XSEDE and IU machines, the material is transferable to any cluster.
+While material will make heavy use of IU machines, the material is transferable to any cluster.
 
 # Schedule 
 
@@ -56,8 +56,6 @@ HPC keywords - https://docs.google.com/document/d/1ZC1SCgoTFaYrU5begM7DJSiJD9lL2
 \
 The google doc link is editable, feel free to add in words and definitions during the workshop. At the end of the workshop I will move this document here as a pdf. 
 \
-\
-Scripts in general (SLURM/PBS scripts)- In progress
 
 # Contact
 
