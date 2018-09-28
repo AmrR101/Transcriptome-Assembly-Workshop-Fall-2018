@@ -46,7 +46,7 @@ While material will make heavy use of IU machines, the material is transferable 
 Scripts used in this workshop - Project_Workshop.tar.gz (under releases)
 \
 \
-Slides and Presentations - In progress
+Slides and Presentations - https://iu.box.com/s/3xo07ugnl7d3q2p2hy4qy0ow1n7blhtn
 \
 \
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
