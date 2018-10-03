@@ -52,9 +52,7 @@ Slides and Presentations - https://iu.box.com/s/3xo07ugnl7d3q2p2hy4qy0ow1n7blhtn
 NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
 \
 \
-HPC keywords - https://docs.google.com/document/d/1ZC1SCgoTFaYrU5begM7DJSiJD9lL2avkcznYLMzuT5Q/edit?usp=sharing
-\
-The google doc link is editable, feel free to add in words and definitions during the workshop. At the end of the workshop I will move this document here as a pdf. 
+HPC keywords - At the end of the workshop, I moved the HPC keywords to the boxlink and the github repository
 
 # Contact
 
