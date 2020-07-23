@@ -46,10 +46,10 @@ While material will make heavy use of IU machines, the material is transferable 
 Scripts used in this workshop - Project_Workshop.tar.gz (under releases)
 \
 \
-Slides and Presentations - https://iu.box.com/s/7n7cxgiul716k08qelb03gzsfp0rk4wm
+Slides and Presentations -https://drive.google.com/drive/folders/114OjpbYMPPh0VCfQVwRTJknbmh0l8OPm?usp=sharing
 \
 \
-NCGAS webpage - https://ncgas.org/WelcomeBasket_Pipeline.php
+NCGAS webpage -https://ncgas.org/training/transcriptome-pipeline-documentation.html
 \
 \
 HPC keywords - At the end of the workshop, I moved the HPC keywords to the boxlink and the github repository
